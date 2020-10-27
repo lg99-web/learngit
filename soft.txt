@@ -1,2 +1,2 @@
-Hellow git
+Learn git
 Hellow world
